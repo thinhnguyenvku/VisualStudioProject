@@ -1,0 +1,11 @@
+Sales_Type_Key;Sales_Type_Name
+1;Retail
+2;Wholesale
+3;Online
+4;Distributor
+5;Direct Sales
+6;Franchise
+7;Reseller
+8;Consignment
+9;Auction
+10;Telemarketing
